@@ -1,13 +1,19 @@
 https://github.com/aleph-naught2tog/live_tinkering [] Little toy demos for Phoenix LiveView
 https://github.com/amberbit/board [] An example Elixir + Phoenix + OTP + LiveView app
+https://github.com/andreaseriksson/poor_man_spa [] Proof of concept for a SPA with Phoenix Live View, Turbolinks and Rails UJS
 https://github.com/angelikatyborska/falling_blocks [] A simple game made with PhoenixLiveView https://falling-tiles.angelika.me/
+https://github.com/artsy/apr-dashboard [] APRd (Artsy Real-time Dashboard)
+https://github.com/betterdoc-org/lfeview [] Game of Life using Phoenix LifeView as UI
 https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm with Elixir and Phoenix LiveView https://phoenix-liveview-ant-farm.her…
 https://github.com/CassiusPacheco/live_chat [] A simple (non-optimised) real-time chat built with Phoenix LiveView
 https://github.com/chrismccord/phoenix_live_view_example []
 https://github.com/ckampfe/rere [] last night I accidentally rebuilt Rubular in 30 lines of code #elixir #phoenixliveview
+https://github.com/DefactoSoftware/BearNecessities [] Multiplayer bear game with Phoenix Live View https://unbearable.nl
+https://github.com/djthread/lucidboard [] A realtime, collaborative kanban tool, built on Elixir, Phoenix, and LiveView.
 https://github.com/dmitriid/phreak [] Kubernetes Dashboard with Phoenix LiveView
 https://github.com/dorilla/live_view_black_jack [] BlackJack https://polite-angelic-beaver.gigalixirapp.com/
 https://github.com/eteubert/open_adventure_capitalist [] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
+https://github.com/future-cyborg/phoenix_example_multi_nested_form [] his is an example repo of how to work with nested forms while using Phoenix LiveView.
 https://github.com/hurty/phoenix_live_view_example [] Table editor demo with Phoenix LiveView. Zero javascript, ~80 LOC, table data already available serverside! thanks
 https://github.com/imartinat/phoenix_live_view_tablefilter [] Table Filter with Phoenix LiveView https://medium.com/@imartinat/table-f…
 https://github.com/joerichsen/phoenix_live_view_example [] Table pagination, filtering, and sorting with Phoenix LiveView and no JS :-)
@@ -25,5 +31,6 @@ https://github.com/smeade/phoenix_live_view_example [] It's a server-side calcul
 https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveView, PubSub and Presence
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
 https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and split a form into multiple steps using Phoenix Live View
+https://github.com/vorce/lasso [] Inspect HTTP requests. Powered by Phoenix and LiveView.
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView.
