@@ -12,6 +12,7 @@ https://github.com/DefactoSoftware/BearNecessities [] Multiplayer bear game with
 https://github.com/djthread/lucidboard [] A realtime, collaborative kanban tool, built on Elixir, Phoenix, and LiveView.
 https://github.com/dmitriid/phreak [] Kubernetes Dashboard with Phoenix LiveView
 https://github.com/dorilla/live_view_black_jack [] BlackJack https://polite-angelic-beaver.gigalixirapp.com/
+https://github.com/elixirschool/live-view-chat [] A chat app built with Phoenix LiveView, PubSub and Presence
 https://github.com/eteubert/open_adventure_capitalist [] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
 https://github.com/future-cyborg/phoenix_example_multi_nested_form [] his is an example repo of how to work with nested forms while using Phoenix LiveView.
 https://github.com/hurty/phoenix_live_view_example [] Table editor demo with Phoenix LiveView. Zero javascript, ~80 LOC, table data already available serverside! thanks
@@ -19,16 +20,22 @@ https://github.com/imartinat/phoenix_live_view_tablefilter [] Table Filter with 
 https://github.com/joerichsen/phoenix_live_view_example [] Table pagination, filtering, and sorting with Phoenix LiveView and no JS :-)
 https://github.com/JohnB/phoenix_live_view_example []  Collaborative Painting
 https://github.com/martinstannard/soup [] A multi-player boggle clone written with Phoenix LiveView https://lettersoup.herokuapp.com
+https://github.com/mitchellhenke/mprop [] Watch Properties in ...
 https://github.com/mmmries/showoff [] A small elixir service for playing with the ChunkySVG library
+https://github.com/mnussbaumer/cocktail [reallife] A LiveView Test of a Visual HTML Editor server side rendered
 https://github.com/moomerman/flappy-phoenix [] Flappy Bird clone written in Elixir using Phoenix LiveView to render the game UI from the server. https://flappy-phoenix.herokuapp.com
+https://github.com/nerves-build/domain_holder [] Host your own landing pages with Elixir, Nerves, and LiveView
 https://github.com/neslinesli93/breakoutex [] A breakout clone written in pure Elixir, using Phoenix LiveView https://breakoutex.tommasopifferi.com
 https://github.com/nickdichev/markdown-live [] MarkdownLive is an example application using Phoenix LiveView which renders user-submitted Markdown on the server. http://markdown.dichev.io
 https://github.com/nicolasblanco/booking_calendar [] Full calendar component with days selection persisted in database & real time broadcasting to all clients. 0 lines of JavaScript. Only clean Elixir server-side code
+https://github.com/oestrich/grapevine [] The MUD Chat Network https://grapevine.haus
 https://github.com/ramortegui/phoenix_trivia [] Phoenix trivia is a Real Time Multiplayer game developed using Elixir without the need to write javascript https://phx-trivia.gigalixirapp.com
 https://github.com/Sanchos01/Phoenix-Sea-Battle [] Battleship, using Phoenix framework (LiveView) https://radiant-plateau-73240.herokua…
 https://github.com/sasa1977/demo_system [] Synthetic load generator + ad-hoc scheduler observer powered by #phoenix #LiveView #myelixirstatus
 https://github.com/smeade/phoenix_live_view_example [] It's a server-side calculator. You know, just in case you didn't have one on your phone, or desk, or watch :)
 https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveView, PubSub and Presence
+https://github.com/thomasbrus/phoenix-live-view-soccer-table [] Soccer Table (Phoenix LiveView Demo)
+https://github.com/topherhunt/reassembling-the-line [] Record video interviews where people share first-hand experience on an important topic. Code each segment of the video by theme. Explore the results using a novel filterable segment playback UI. Demo: https://rtl-demo1.herokuapp.com/
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
 https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and split a form into multiple steps using Phoenix Live View
 https://github.com/vorce/lasso [] Inspect HTTP requests. Powered by Phoenix and LiveView.
