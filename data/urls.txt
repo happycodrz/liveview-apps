@@ -18,8 +18,11 @@ https://github.com/eteubert/open_adventure_capitalist [] A Phoenix LiveView expe
 https://github.com/future-cyborg/phoenix_example_multi_nested_form [] his is an example repo of how to work with nested forms while using Phoenix LiveView.
 https://github.com/hurty/phoenix_live_view_example [] Table editor demo with Phoenix LiveView. Zero javascript, ~80 LOC, table data already available serverside! thanks
 https://github.com/imartinat/phoenix_live_view_tablefilter [] Table Filter with Phoenix LiveView https://medium.com/@imartinat/table-f…
+https://github.com/jeffkreeftmeijer/hayago [] The Go game, implemented with Phoenix LiveView. https://hayago.herokuapp.com
 https://github.com/joerichsen/phoenix_live_view_example [] Table pagination, filtering, and sorting with Phoenix LiveView and no JS :-)
 https://github.com/JohnB/phoenix_live_view_example []  Collaborative Painting
+https://github.com/lboekhorst/challengers [] Artificial intelligence programming competition https://challengers.dev
+https://github.com/Logflare/logflare [] Tail -f your Cloudflare logs! https://logflare.app
 https://github.com/martinstannard/soup [] A multi-player boggle clone written with Phoenix LiveView https://lettersoup.herokuapp.com
 https://github.com/mitchellhenke/mprop [] Watch Properties in ...
 https://github.com/mmmries/showoff [] A small elixir service for playing with the ChunkySVG library
@@ -42,3 +45,4 @@ https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and
 https://github.com/vorce/lasso [] Inspect HTTP requests. Powered by Phoenix and LiveView.
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView.
+https://github.com/elementary/houston-server [] AppCenter Dashboard Server, the backend for elementary AppCenter
