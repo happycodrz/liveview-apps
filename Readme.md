@@ -242,7 +242,9 @@ $ make umbrellas
 [⬆ Navigation](#navigation)
 
 
-## General Posts
+## General Postsa
+- [Phoenix LiveView live_link - 2019/06/26](https://www.poeticoding.com/phoenix-liveview-live_link/)
+- [Phoenix LiveView – Change the URL without refreshing the page - 2019/06/19](https://www.poeticoding.com/phoenix-liveview-change-the-url-without-refreshing-the-page/#pictures-example)
 - [Talking to the LiveView - Updating the Phoenix LiveViews from outside the process -  2019/04/19](https://medium.com/@iacobson/talking-to-the-liveview-7a19f7e45522)
 - [REAL WORLD PHOENIX |> A LIVEVIEW DASHBOARD - 2019/04/03](https://www.theguild.nl/real-world-phoenix-of-groter-dan-a-liveview-dashboard/)
 - [Phoenix Live View Debounce - 2019/05/26](https://dev.to/tizpuppi/phoenix-live-view-debounce-4icf)
