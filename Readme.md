@@ -255,3 +255,11 @@ $ make umbrellas
 - https://elixircasts.io/phoenix-live-view
 - [CRUD with Live View Part 1 - 2019/06/06 - video](https://www.youtube.com/watch?v=0yFGEAXIn7E)
 - [Live Coding LiveView w/ Bruce Tate - 2019/04/04 - video](https://www.youtube.com/watch?v=-wzabRyc-0M)
+
+
+## Videos
+
+- [Upgrade Phoenix Live View - 2019/06/26 - Plangora](https://www.youtube.com/watch?v=yL1gZuFr28A)
+- [CRUD with Live View Part 2 - 2019/06/21 - Plangora](https://www.youtube.com/watch?v=d0j8W6omSQA)
+- [CRUD with Live View Part 1 - 2019/06/06 - Plangora](https://www.youtube.com/watch?v=0yFGEAXIn7E)
+- [Setup Phoenix Live View - 2019/05/24 - Plangora](https://www.youtube.com/watch?v=5PWUTABsCmQ)
