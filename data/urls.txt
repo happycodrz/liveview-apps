@@ -13,6 +13,7 @@ https://github.com/djthread/lucidboard [] A realtime, collaborative kanban tool,
 https://github.com/dmitriid/phreak [] Kubernetes Dashboard with Phoenix LiveView
 https://github.com/dorilla/live_view_black_jack [] BlackJack https://polite-angelic-beaver.gigalixirapp.com/
 https://github.com/drumusician/elixir_conf_live_view_dashboard [] A LiveView Dashboard with ElixirConf Stats
+https://github.com/elementary/houston-server [] AppCenter Dashboard Server, the backend for elementary AppCenter
 https://github.com/elixirschool/live-view-chat [] A chat app built with Phoenix LiveView, PubSub and Presence
 https://github.com/eteubert/open_adventure_capitalist [] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
 https://github.com/future-cyborg/phoenix_example_multi_nested_form [] his is an example repo of how to work with nested forms while using Phoenix LiveView.
@@ -45,4 +46,3 @@ https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and
 https://github.com/vorce/lasso [] Inspect HTTP requests. Powered by Phoenix and LiveView.
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView.
-https://github.com/elementary/houston-server [] AppCenter Dashboard Server, the backend for elementary AppCenter
