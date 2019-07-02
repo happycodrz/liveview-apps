@@ -29,7 +29,6 @@ https://github.com/mitchellhenke/mprop [] Watch Properties in ...
 https://github.com/mmmries/showoff [] A small elixir service for playing with the ChunkySVG library
 https://github.com/mnussbaumer/cocktail [reallife] A LiveView Test of a Visual HTML Editor server side rendered
 https://github.com/moomerman/flappy-phoenix [] Flappy Bird clone written in Elixir using Phoenix LiveView to render the game UI from the server. https://flappy-phoenix.herokuapp.com
-https://github.com/nerves-build/domain_holder [] Host your own landing pages with Elixir, Nerves, and LiveView
 https://github.com/neslinesli93/breakoutex [] A breakout clone written in pure Elixir, using Phoenix LiveView https://breakoutex.tommasopifferi.com
 https://github.com/nickdichev/markdown-live [] MarkdownLive is an example application using Phoenix LiveView which renders user-submitted Markdown on the server. http://markdown.dichev.io
 https://github.com/nicolasblanco/booking_calendar [] Full calendar component with days selection persisted in database & real time broadcasting to all clients. 0 lines of JavaScript. Only clean Elixir server-side code
