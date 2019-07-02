@@ -5,6 +5,7 @@ Found here:
 - https://github.com/search?l=elixir&o=desc&q=stars%3A%3E1+phoenix_live_view&s=indexed&type=Code
 - https://shift.infinite.red/phoenix-liveview-round-up-the-story-so-far-3cbb1648e940 (2019/05/03)
 - https://medium.com/@leandrocesquini/phoenix-liveview-collection-8259f35ff2b0 (2019/05/06)
+- https://10xdevelopers.com/articles/liveview-examples (2019/05/29)
 
 
 ## Running the update
