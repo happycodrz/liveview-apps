@@ -244,6 +244,7 @@ $ make umbrellas
 
 
 ## General Posts
+- [Using Select2 with Phoenix LiveView - 2019/07/11](https://www.poeticoding.com/using-select2-with-phoenix-liveview/)
 - [Phoenix LiveView Examples - 2019/05/29](https://10xdevelopers.com/articles/liveview-examples)
 - [LiveView storing Session Data on Redirect - 2019/05/21](https://10xdevelopers.com/articles/from-sockets-to-sessions-with-liveview)
 - [Phoenix LiveView live_link - 2019/06/26](https://www.poeticoding.com/phoenix-liveview-live_link/)
@@ -257,7 +258,8 @@ $ make umbrellas
 
 
 ## Videos
-- [Andrew Forward: LiveView: Rich Client Side Experience Delivered from the Server - 2019/07/01 - EMPEX Conference](https://www.youtube.com/watch?v=KvvkWiECvjY) 
+- [CRUD with LiveView Part 3 - 2019/07/12 - Plangora](https://www.youtube.com/watch?v=y4JNEd1i8hc)
+- [Andrew Forward: LiveView: Rich Client Side Experience Delivered from the Server - 2019/07/01 - EMPEX Conference](https://www.youtube.com/watch?v=KvvkWiECvjY)
 - [Upgrade Phoenix Live View - 2019/06/26 - Plangora](https://www.youtube.com/watch?v=yL1gZuFr28A)
 - [CRUD with Live View Part 2 - 2019/06/21 - Plangora](https://www.youtube.com/watch?v=d0j8W6omSQA)
 - [CRUD with Live View Part 1 - 2019/06/06 - Plangora](https://www.youtube.com/watch?v=0yFGEAXIn7E)
