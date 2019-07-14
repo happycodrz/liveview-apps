@@ -1,8 +1,11 @@
 https://github.com/aleph-naught2tog/live_tinkering [] Little toy demos for Phoenix LiveView
+https://github.com/alexandrubagu/bomberman [] Bomberman implementation in Elixir/Phoenix using server side rendering http://bomberman.alexandrubagu.info
+https://github.com/alukasz/pentago [game] Implementation of board game Pentago https://faraway-admired-flyingfish.gi…
 https://github.com/amberbit/board [] An example Elixir + Phoenix + OTP + LiveView app
 https://github.com/andreaseriksson/poor_man_spa [] Proof of concept for a SPA with Phoenix Live View, Turbolinks and Rails UJS
 https://github.com/angelikatyborska/falling_blocks [] A simple game made with PhoenixLiveView https://falling-tiles.angelika.me/
 https://github.com/artsy/apr-dashboard [] APRd (Artsy Real-time Dashboard)
+https://github.com/axelclark/ex338 [] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
 https://github.com/betterdoc-org/lfeview [] Game of Life using Phoenix LifeView as UI
 https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm with Elixir and Phoenix LiveView https://phoenix-liveview-ant-farm.her…
 https://github.com/CassiusPacheco/live_chat [] A simple (non-optimised) real-time chat built with Phoenix LiveView
@@ -13,6 +16,7 @@ https://github.com/djthread/lucidboard [] A realtime, collaborative kanban tool,
 https://github.com/dmitriid/phreak [] Kubernetes Dashboard with Phoenix LiveView
 https://github.com/dorilla/live_view_black_jack [] BlackJack https://polite-angelic-beaver.gigalixirapp.com/
 https://github.com/drumusician/elixir_conf_live_view_dashboard [] A LiveView Dashboard with ElixirConf Stats
+https://github.com/Echoes93/flood [] ...
 https://github.com/elementary/houston-server [] AppCenter Dashboard Server, the backend for elementary AppCenter
 https://github.com/elixirschool/live-view-chat [] A chat app built with Phoenix LiveView, PubSub and Presence
 https://github.com/eteubert/open_adventure_capitalist [] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
