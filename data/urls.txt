@@ -5,6 +5,7 @@ https://github.com/amberbit/board [] An example Elixir + Phoenix + OTP + LiveVie
 https://github.com/andreaseriksson/poor_man_spa [] Proof of concept for a SPA with Phoenix Live View, Turbolinks and Rails UJS
 https://github.com/angelikatyborska/falling_blocks [] A simple game made with PhoenixLiveView https://falling-tiles.angelika.me/
 https://github.com/artsy/apr-dashboard [] APRd (Artsy Real-time Dashboard)
+https://github.com/artsy/inflow [] Experiment - Artsy import app in Elixir/Phoenix (An experimental batch imports application written in Elixir/Phoenix)
 https://github.com/axelclark/ex338 [] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
 https://github.com/betterdoc-org/lfeview [] Game of Life using Phoenix LifeView as UI
 https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm with Elixir and Phoenix LiveView https://phoenix-liveview-ant-farm.her…
