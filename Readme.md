@@ -278,6 +278,7 @@ $ make umbrellas
 
 
 ## Videos
+- [JavaScript Interop with Phoenix LiveView - 2019/07/19 - Plangora](https://www.youtube.com/watch?v=ziuflbasrgk)
 - [CRUD with LiveView Part 3 - 2019/07/12 - Plangora](https://www.youtube.com/watch?v=y4JNEd1i8hc)
 - [Andrew Forward: LiveView: Rich Client Side Experience Delivered from the Server - 2019/07/01 - EMPEX Conference](https://www.youtube.com/watch?v=KvvkWiECvjY)
 - [Upgrade Phoenix Live View - 2019/06/26 - Plangora](https://www.youtube.com/watch?v=yL1gZuFr28A)
