@@ -42,6 +42,7 @@ https://github.com/neslinesli93/breakoutex [] A breakout clone written in pure E
 https://github.com/nickdichev/markdown-live [] MarkdownLive is an example application using Phoenix LiveView which renders user-submitted Markdown on the server. http://markdown.dichev.io
 https://github.com/nicolasblanco/booking_calendar [] Full calendar component with days selection persisted in database & real time broadcasting to all clients. 0 lines of JavaScript. Only clean Elixir server-side code
 https://github.com/oestrich/grapevine [] The MUD Chat Network https://grapevine.haus
+https://github.com/padde/scrumpokr [] Online Scrum poker for remote software development teams https://scrumpo.kr
 https://github.com/ramortegui/phoenix_trivia [] Phoenix trivia is a Real Time Multiplayer game developed using Elixir without the need to write javascript https://phx-trivia.gigalixirapp.com
 https://github.com/Sanchos01/Phoenix-Sea-Battle [] Battleship, using Phoenix framework (LiveView) https://radiant-plateau-73240.herokua…
 https://github.com/sasa1977/demo_system [] Synthetic load generator + ad-hoc scheduler observer powered by #phoenix #LiveView #myelixirstatus
@@ -52,5 +53,6 @@ https://github.com/topherhunt/reassembling-the-line [] Record video interviews w
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
 https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and split a form into multiple steps using Phoenix Live View
 https://github.com/vorce/lasso [] Inspect HTTP requests. Powered by Phoenix and LiveView.
+https://github.com/zblanco/libu [] A series of experiments built with Elixir, Phoenix, LiveView, and Tailwind CSS.
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView.
