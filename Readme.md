@@ -306,6 +306,11 @@ $ make umbrellas
 
 
 ## Videos
+- [ElixirConf 2019 - Friday Evening Keynote - 2019/08/30](https://www.youtube.com/watch?v=XhNv1ikZNLs)
+- [ElixirConf 2019 - Lighting Talk - Phoenix LiveView in Healthcare - Tyler Clemens - 2019/08/30](https://www.youtube.com/watch?v=3SWksXENYJg)
+- [ElixirConf 2019 - Beyond LiveView: Building Real-Time... - Sophie DeBenedetto - 2019/08/30](https://www.youtube.com/watch?v=AbNAuOQ8wBE)
+- [ElixirConf 2019 - Phoenix LiveView Demystified - Alex Garibay - 2019/08/30](https://www.youtube.com/watch?v=9eOo8hSbMAc)
+- [ElixirConf 2019 - How LiveView Handles File Uploads - Gary Rennie - 2019/08/30](https://www.youtube.com/watch?v=svpk-hKvTNk)
 - [Phoenix Presence with LiveView - 2019/08 - Plangora](https://www.youtube.com/watch?v=4uy50HJifd0)
 - [JavaScript Interop with Phoenix LiveView - 2019/07/19 - Plangora](https://www.youtube.com/watch?v=ziuflbasrgk)
 - [CRUD with LiveView Part 3 - 2019/07/12 - Plangora](https://www.youtube.com/watch?v=y4JNEd1i8hc)
