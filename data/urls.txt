@@ -14,6 +14,7 @@ https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm wi
 https://github.com/CassiusPacheco/live_chat [] A simple (non-optimised) real-time chat built with Phoenix LiveView
 https://github.com/chrismccord/phoenix_live_view_example []
 https://github.com/ckampfe/rere [] last night I accidentally rebuilt Rubular in 30 lines of code #elixir #phoenixliveview
+https://github.com/coingaming/bennu [] Component system and rendering engine for Phoenix and LiveView
 https://github.com/DataKrewTech/AcqDat [] IoT Data Capture and Visualization Engine https://datakrew.com/#portfolio
 https://github.com/DefactoSoftware/BearNecessities [] Multiplayer bear game with Phoenix Live View https://unbearable.nl
 https://github.com/djthread/lucidboard [] A realtime, collaborative kanban tool, built on Elixir, Phoenix, and LiveView.
