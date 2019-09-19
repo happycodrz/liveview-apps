@@ -9,6 +9,7 @@ https://github.com/angelikatyborska/falling_blocks [] A simple game made with Ph
 https://github.com/artsy/apr-dashboard [] APRd (Artsy Real-time Dashboard)
 https://github.com/artsy/inflow [] Experiment - Artsy import app in Elixir/Phoenix (An experimental batch imports application written in Elixir/Phoenix)
 https://github.com/axelclark/ex338 [] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
+https://github.com/barboza/chatter [] A simple chat application using Phoenix Live View
 https://github.com/betterdoc-org/lfeview [] Game of Life using Phoenix LifeView as UI
 https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm with Elixir and Phoenix LiveView https://phoenix-liveview-ant-farm.her…
 https://github.com/CassiusPacheco/live_chat [] A simple (non-optimised) real-time chat built with Phoenix LiveView
@@ -39,6 +40,7 @@ https://github.com/martinstannard/soup [] A multi-player boggle clone written wi
 https://github.com/mitchellhenke/mprop [] Watch Properties in ...
 https://github.com/mmmries/showoff [] A small elixir service for playing with the ChunkySVG library
 https://github.com/mnussbaumer/cocktail [reallife] A LiveView Test of a Visual HTML Editor server side rendered
+https://github.com/monjohn/phellow [] A Trello Clone in Phoenix using LiveView
 https://github.com/moomerman/flappy-phoenix [] Flappy Bird clone written in Elixir using Phoenix LiveView to render the game UI from the server. https://flappy-phoenix.herokuapp.com
 https://github.com/mreishus/demon_spirit_umbrella [] Demon Spirit is an abstract board game played on a 5x5 grid.
 https://github.com/neslinesli93/breakoutex [] A breakout clone written in pure Elixir, using Phoenix LiveView https://breakoutex.tommasopifferi.com
