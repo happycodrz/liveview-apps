@@ -316,6 +316,8 @@ $ make umbrellas
 
 
 ## General Posts
+- [REAL WORLD PHOENIX |> SIGN UP FLOW SPA STYLE WITH LIVEVIEW! - 2019/12/18](https://www.theguild.nl/real-world-phoenix-sign-up-flow-spa-style-with-liveview/)
+- [Phoenix LiveView Tutorial: Handling Connection Errors & Push Notifications With JS Hooks - 2019/12](https://curiosum.dev/blog/elixir-phoenix-liveview-messenger-part-4)
 - [Using Select2 with Phoenix LiveView - 2019/07/11](https://www.poeticoding.com/using-select2-with-phoenix-liveview/)
 - [Phoenix LiveView Examples - 2019/05/29](https://10xdevelopers.com/articles/liveview-examples)
 - [LiveView storing Session Data on Redirect - 2019/05/21](https://10xdevelopers.com/articles/from-sockets-to-sessions-with-liveview)
@@ -328,6 +330,10 @@ $ make umbrellas
 - [CRUD with Live View Part 1 - 2019/06/06 - video](https://www.youtube.com/watch?v=0yFGEAXIn7E)
 - [Live Coding LiveView w/ Bruce Tate - 2019/04/04 - video](https://www.youtube.com/watch?v=-wzabRyc-0M)
 
+
+## Liveview Components
+- [Introduction to Phoenix LiveView LiveComponents - 2019/12/09](http://blog.pthompson.org/liveview-livecomponents-introduction)
+- [Creating a Modal LiveView LiveComponent - 2019/12/17](http://blog.pthompson.org/phoenix-liveview-livecomponent-modal)
 
 ## Videos
 - [ElixirConf 2019 - Friday Evening Keynote - 2019/08/30](https://www.youtube.com/watch?v=XhNv1ikZNLs)
