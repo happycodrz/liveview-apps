@@ -333,6 +333,8 @@ $ make umbrellas
 - [Live Coding LiveView w/ Bruce Tate - 2019/04/04 - video](https://www.youtube.com/watch?v=-wzabRyc-0M)
 
 
+- **UPLOADING** [GIST EXAMPLE](https://gist.github.com/goofansu/e3f8551a596373ef6370208bfc7db78d) + https://twitter.com/goofansu/status/1320660510795198467
+
 ## Liveview Components
 - [Introduction to Phoenix LiveView LiveComponents - 2019/12/09](http://blog.pthompson.org/liveview-livecomponents-introduction)
 - [Creating a Modal LiveView LiveComponent - 2019/12/17](http://blog.pthompson.org/phoenix-liveview-livecomponent-modal)
