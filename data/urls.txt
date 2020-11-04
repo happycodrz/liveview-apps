@@ -63,3 +63,5 @@ https://github.com/zblanco/libu [] A series of experiments built with Elixir, Ph
 https://github.com/zkayser/georacer [] GeoRacer -- The Hot Cold GeoRacing App With Phoenix LiveView Driving Webcomponents and SVGs!
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView
+https://github.com/pedromtavares/moba [reallife, mustsee] MOBA - Multiplayer Online Battle Arena
+https://github.com/seb3s/kandesk [] Simple Kanban application written in elixir using phoenix liveview
