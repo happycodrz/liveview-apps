@@ -47,10 +47,12 @@ https://github.com/nickdichev/markdown-live [] MarkdownLive is an example applic
 https://github.com/nicolasblanco/booking_calendar [] Full calendar component with days selection persisted in database & real time broadcasting to all clients. 0 lines of JavaScript. Only clean Elixir server-side code
 https://github.com/oestrich/grapevine [] The MUD Chat Network https://grapevine.haus
 https://github.com/padde/scrumpokr [] Online Scrum poker for remote software development teams https://scrumpo.kr
+https://github.com/pedromtavares/moba [reallife, mustsee] MOBA - Multiplayer Online Battle Arena
 https://github.com/PJUllrich/e2e-testing-with-cypress [] Auxiliary code to the talk: End-2-End Testing with Cypress
 https://github.com/ramortegui/phoenix_trivia [] Phoenix trivia is a Real Time Multiplayer game developed using Elixir without the need to write javascript https://phx-trivia.gigalixirapp.com
 https://github.com/Sanchos01/Phoenix-Sea-Battle [] Battleship, using Phoenix framework (LiveView) https://radiant-plateau-73240.herokua…
 https://github.com/sasa1977/demo_system [] Synthetic load generator + ad-hoc scheduler observer powered by #phoenix #LiveView #myelixirstatus
+https://github.com/seb3s/kandesk [] Simple Kanban application written in elixir using phoenix liveview
 https://github.com/smeade/phoenix_live_view_example [] It's a server-side calculator. You know, just in case you didn't have one on your phone, or desk, or watch :)
 https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveView, PubSub and Presence
 https://github.com/thomasbrus/phoenix-live-view-soccer-table [] Soccer Table (Phoenix LiveView Demo)
@@ -62,5 +64,3 @@ https://github.com/zblanco/libu [] A series of experiments built with Elixir, Ph
 https://github.com/zkayser/georacer [] GeoRacer -- The Hot Cold GeoRacing App With Phoenix LiveView Driving Webcomponents and SVGs!
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView
-https://github.com/pedromtavares/moba [reallife, mustsee] MOBA - Multiplayer Online Battle Arena
-https://github.com/seb3s/kandesk [] Simple Kanban application written in elixir using phoenix liveview
