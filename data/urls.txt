@@ -1,6 +1,5 @@
 https://github.com/alanvardy/rexex [] Elixir regular expression editor, inspired by Rubular
 https://github.com/aleph-naught2tog/live_tinkering [] Little toy demos for Phoenix LiveView
-https://github.com/alexandrubagu/bomberman [] Bomberman implementation in Elixir/Phoenix using server side rendering http://bomberman.alexandrubagu.info
 https://github.com/alukasz/pentago [game] Implementation of board game Pentago https://faraway-admired-flyingfish.gi…
 https://github.com/amberbit/board [] An example Elixir + Phoenix + OTP + LiveView app
 https://github.com/andreaseriksson/poor_man_spa [] Proof of concept for a SPA with Phoenix Live View, Turbolinks and Rails UJS
