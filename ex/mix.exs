@@ -21,7 +21,7 @@ defmodule Ex.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
    [
-    {:updater, github: "happycodrz/updater"}
-   ] 
+    {:updater, github: "happycodrz/updater", sha: "3e1052627279e22e8c1d1a5451ca41ea9b7d3170"}
+   ]
   end
 end
