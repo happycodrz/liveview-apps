@@ -1,6 +1,2 @@
 update:
-	cd updater && mix update
-
-
-umbrellas:
-	cd updater && mix umbrellas
+	export UPDATER_ROOT=$$(pwd); cd ex && mix update
