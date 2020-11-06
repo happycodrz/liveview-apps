@@ -8,14 +8,18 @@ https://github.com/artsy/inflow [] Experiment - Artsy import app in Elixir/Phoen
 https://github.com/axelclark/ex338 [] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
 https://github.com/barboza/chatter [] A simple chat application using Phoenix Live View
 https://github.com/barsoom/ex-remit [] A self-hosted web app for commit-by-commit code review, written using Phoenix LiveView.
+https://github.com/benvp/liveview_autocomplete [] A simple but powerful autocomplete using Phoenix LiveView and Alpine.js
 https://github.com/betterdoc-org/lfeview [] Game of Life using Phoenix LifeView as UI
 https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm with Elixir and Phoenix LiveView https://phoenix-liveview-ant-farm.her…
+https://github.com/BigTom/changeban [] on-line implementation of the Agendashift workshop
+https://github.com/cadebward/live_view_surface_editor [] An example repo that uses LV hooks to integrate the ACE editor
 https://github.com/CassiusPacheco/live_chat [] A simple (non-optimised) real-time chat built with Phoenix LiveView
 https://github.com/chrismccord/phoenix_live_view_example []
 https://github.com/ckampfe/rere [] last night I accidentally rebuilt Rubular in 30 lines of code #elixir #phoenixliveview
 https://github.com/coingaming/bennu [] Component system and rendering engine for Phoenix and LiveView
 https://github.com/DataKrewTech/AcqDat [] IoT Data Capture and Visualization Engine https://datakrew.com/#portfolio
 https://github.com/DefactoSoftware/BearNecessities [] Multiplayer bear game with Phoenix Live View https://unbearable.nl
+https://github.com/dersnek/chirp [] A real-time Twitter clone with LiveView and Phoenix 1.5 (https://youtu.be/MZvmYaFkNJI)
 https://github.com/djthread/lucidboard [] A realtime, collaborative kanban tool, built on Elixir, Phoenix, and LiveView.
 https://github.com/dmitriid/phreak [] Kubernetes Dashboard with Phoenix LiveView
 https://github.com/dnsbty/level10 [] Phoenix LiveView multiplayer card game
