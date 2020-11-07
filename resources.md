@@ -9,6 +9,10 @@
   - https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html
 
 
+### Podcasts
+  - https://thinkingelixir.com/podcast-episodes/020-liveview-v-livewire-alpine-js-with-caleb-porzio/
+  - https://thinkingelixir.com/podcast-episodes/010-frontend-vs-backend-and-business-value-of-liveview/
+
 ### Videos
   - [ElixirConf 2020 - Opening Keynote - Chris McCord - 2020/09](https://www.youtube.com/watch?v=QJkopba8yyE) - UPLOADS
   - [Phoenix LiveView: Working the 80/20 rule - 2020/09](https://www.youtube.com/watch?v=S2SzQLNRZf4)
@@ -20,7 +24,6 @@
 ### LiveView - Alchemist Camp
   - https://www.youtube.com/watch?v=NUwpkfwJvWo&list=PLFhQVxlaKQElDQDXXf7ys12KsFIBuGf6e
 
-
 ### Authentication
   - [Authentication and Authorisation in Phoenix Liveview - 2020/10/16](https://www.leanpanda.com/blog/authentication-and-authorisation-in-phoenix-liveview/?s=09)
 
@@ -28,3 +31,7 @@
   - [LiveData - a (perfect) marriage of JavaScript and Elixir - 11/05/2020](https://www.youtube.com/watch?v=fvNy9bh8_vs)
   - https://github.com/surferseo/live_data
   - https://elixirforum.com/t/json-with-liveview/33992/9
+
+
+### Articles
+  - https://dashbit.co/blog/the-beauty-of-liveview
