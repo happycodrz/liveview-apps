@@ -46,6 +46,7 @@ https://github.com/kuroda/live_dendron [] Live Dendron - a Phoenix LiveView demo
 https://github.com/Logflare/logflare [] Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 https://github.com/makerion/makerion [] Makerion is a 3D printer management project intended to be run on a Raspberry Pi
 https://github.com/martinstannard/soup [] A multi-player boggle clone written with Phoenix LiveView https://lettersoup.herokuapp.com
+https://github.com/mcrumm/live_upload_example [] Demonstrating file uploads with Phoenix LiveView
 https://github.com/mitchellhenke/mprop [] Watch Properties in ...
 https://github.com/mmmries/showoff [] A small elixir service for playing with the ChunkySVG library
 https://github.com/mnussbaumer/cocktail [reallife] A LiveView Test of a Visual HTML Editor server side rendered
@@ -66,6 +67,7 @@ https://github.com/sasa1977/demo_system [] Synthetic load generator + ad-hoc sch
 https://github.com/seb3s/kandesk [] Simple Kanban application written in elixir using phoenix liveview
 https://github.com/smeade/phoenix_live_view_example [] It's a server-side calculator. You know, just in case you didn't have one on your phone, or desk, or watch :)
 https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveView, PubSub and Presence
+https://github.com/stevegrossi/sengoku [] An online Risk-like game built with Elixir and Phoenix LiveView
 https://github.com/thomasbrus/phoenix-live-view-soccer-table [] Soccer Table (Phoenix LiveView Demo)
 https://github.com/topherhunt/reassembling-the-line [] Record video interviews where people share first-hand experience on an important topic. Code each segment of the video by theme. Explore the results using a novel filterable segment playback UI. Demo: https://rtl-demo1.herokuapp.com/
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
