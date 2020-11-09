@@ -67,6 +67,9 @@
   - https://github.com/stevegrossi/sengoku/pull/49 (Migrate from React to LiveView 🔥)
 
 
+### Discussions
+  - https://elixirforum.com/t/what-will-happen-to-my-liveview-component-if-i-go-to-the-next-page/31116/23
+    (how to structure your app with multiple LV components)
 
 
 ### Libs
