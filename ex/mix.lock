@@ -8,5 +8,5 @@
   "mochiweb": {:hex, :mochiweb, "2.20.1", "e4dbd0ed716f076366ecf62ada5755a844e1d95c781e8c77df1d4114be868cdf", [:rebar3], [], "hexpm", "d1aeee7870470d2fa9eae0b3d5ab6c33801aa2d82b10e9dade885c5c921b36aa"},
   "mockery": {:hex, :mockery, "2.2.0", "67304d5e1d247e698b171913689369bd23c94e437b4a8f32777c6f74b98cb36f", [:mix], [], "hexpm", "103cd23789f97e607854c22b4b6b598e74753ec36278a767bdba5cfe32ec88c4"},
   "tesla": {:hex, :tesla, "1.0.0", "94a9059456d51266f3d40b75ff6be3d18496072ce5ffaabad03d6c00f065cfd1", [:mix], [{:exjsx, ">= 3.0.0", [hex: :exjsx, repo: "hexpm", optional: true]}, {:fuse, "~> 2.4", [hex: :fuse, repo: "hexpm", optional: true]}, {:hackney, "~> 1.6", [hex: :hackney, repo: "hexpm", optional: true]}, {:ibrowse, "~> 4.4.0", [hex: :ibrowse, repo: "hexpm", optional: true]}, {:jason, ">= 1.0.0", [hex: :jason, repo: "hexpm", optional: true]}, {:mime, "~> 1.0", [hex: :mime, repo: "hexpm", optional: false]}, {:poison, ">= 1.0.0", [hex: :poison, repo: "hexpm", optional: true]}], "hexpm", "eefee376cbe6be40348f746fd26e485d17721500c838a85bfd24048b7b3c469c"},
-  "updater": {:git, "https://github.com/happycodrz/updater.git", "9d6a72fe0b1cb99be7a25204317afb2c3c41a529", []},
+  "updater": {:git, "https://github.com/happycodrz/updater.git", "3388991c4054adedc060905fa5edc73511759b11", []},
 }
