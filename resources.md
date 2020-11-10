@@ -65,6 +65,7 @@
   - https://github.com/pedromtavares/moba (A turn-based browser RPG built with Phoenix LiveView)
   - https://github.com/barsoom/ex-remit (A self-hosted web app for commit-by-commit code review, written using Phoenix LiveView.) + (https://thepugautomatic.com/2020/07/optimising-data-over-the-wire-in-phoenix-liveview/)
   - https://github.com/stevegrossi/sengoku/pull/49 (Migrate from React to LiveView 🔥)
+  - https://github.com/fixthestatusquo/proca-backend (Backend for the ultimate petition/campaigning tool)
 
 
 ### Discussions
