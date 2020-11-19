@@ -52,10 +52,19 @@
   - https://www.amberbit.com/blog/2020/9/28/building-backdoor-web-console-for-elixir-and-phoenix-part-4/
   - http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal
   - https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/
-  - https://www.paulfioravanti.com/blog/internationalisation-phoenix-live-layouts/
+  - https://thepugautomatic.com/2020/05/persistent-session-data-via-a-database-in-phoenix-liveview/
   - https://thepugautomatic.com/2020/05/persistent-session-data-in-phoenix-liveview/
-  - https://toranbillups.com/blog/archive/2020/05/09/phoenix-liveview-process-state/ (debugging)
   - https://thepugautomatic.com/2020/05/delaying-the-nprogress-indicator-in-phoenix-liveview/ (UX / feedback)
+  - https://www.paulfioravanti.com/blog/internationalisation-phoenix-live-layouts/
+  - https://toranbillups.com/blog/archive/2020/05/09/phoenix-liveview-process-state/ (debugging)
+  - https://fullstackphoenix.com/tutorials/add-bulk-actions-in-phoenix-liveview (pattern)
+  - https://curiosum.dev/blog/elixir-phoenix-liveview-messenger-part-1
+  - https://curiosum.dev/blog/elixir-phoenix-liveview-messenger-part-3
+  - https://curiosum.dev/blog/elixir-phoenix-liveview-messenger-part-4
+  - https://pragmaticstudio.com/blog/
+  - https://pragmaticstudio.com/blog/2020/11/06/liveview-course-update-authentication
+  - https://pragmaticstudio.com/blog/2020/10/16/liveview-course-update-charting
+  - https://pragmaticstudio.com/blog/2020/10/23/liveview-course-update-mapping
 
 ### Non-trivial Apps
   - https://github.com/zkayser/georacer
@@ -66,6 +75,9 @@
   - https://github.com/barsoom/ex-remit (A self-hosted web app for commit-by-commit code review, written using Phoenix LiveView.) + (https://thepugautomatic.com/2020/07/optimising-data-over-the-wire-in-phoenix-liveview/)
   - https://github.com/stevegrossi/sengoku/pull/49 (Migrate from React to LiveView 🔥)
   - https://github.com/fixthestatusquo/proca-backend (Backend for the ultimate petition/campaigning tool)
+  - https://github.com/noozo/live_view_trello_clone
+  - https://github.com/puemos/frida (Self-hosted customer feedback tool, for all)
+  - https://github.com/H12/easy_retro - A simple retro tool built with Phoenix LiveView and OTP
 
 
 ### Discussions
@@ -76,3 +88,4 @@
 ### Libs
   - https://github.com/gaslight/phoenix-custom-event-hook + https://teamgaslight.com/blog/Phoenix-Liveview-and-Web-Components + https://github.com/gaslight/phoenix-custom-events-demo
   - https://github.com/karolsluszniak/phoenix_live_controller - Controller-style abstraction for building multi-action live views on top of Phoenix.LiveView
+  - https://github.com/chouzar/norm_forms - Experiments around Phoenix Liveview and the Norm libraries
