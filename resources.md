@@ -43,6 +43,15 @@
   - https://elixirforum.com/t/json-with-liveview/33992/9
 
 
+### LiveView uploads / downloads
+  - https://elixirforum.com/t/file-download-while-in-liveview/32699/5
+  - https://tentamen.medium.com/how-to-upload-files-in-elixir-phoenix-json-api-tentamen-software-testing-blog-8c41b877420e
+
+
+### Testing
+  - End2End Testing - https://medium.com/@svengehring/phoenix-end-to-end-testing-in-real-life-efdba3a85be1
+  - https://elixirforum.com/t/integration-testing-phoenix-liveview-apps/24268/12
+
 ### Articles
   - https://dashbit.co/blog/the-beauty-of-liveview
   - https://dashbit.co/blog/using-bootstrap-native-with-live-view
@@ -89,3 +98,18 @@
   - https://github.com/gaslight/phoenix-custom-event-hook + https://teamgaslight.com/blog/Phoenix-Liveview-and-Web-Components + https://github.com/gaslight/phoenix-custom-events-demo
   - https://github.com/karolsluszniak/phoenix_live_controller - Controller-style abstraction for building multi-action live views on top of Phoenix.LiveView
   - https://github.com/chouzar/norm_forms - Experiments around Phoenix Liveview and the Norm libraries
+  - https://github.com/msaraiva/surface_app A bare bones Surface boilerplate without any node/npm dependencies
+
+
+### Surface
+  - https://github.com/SolbiatiAlessandro/dixord
+  - https://github.com/cadebward/live_view_surface_editor
+  - https://github.com/msaraiva/surface
+  - https://github.com/msaraiva/surface_app
+  - https://github.com/msaraiva/surface_bulma
+  - https://github.com/razuf/elixir-phoenix-surface-realworld
+  - https://github.com/tiagoefmoraes/learn_surface
+  - https://github.com/tschmidleithner/surface_bootstrap4
+  - https://github.com/tschmidleithner/surface_bootstrap4_demo
+  - https://github.com/werkzeugh/kandires
+  - http://surface-demo.msaraiva.io/
