@@ -108,6 +108,7 @@
   - https://github.com/msaraiva/surface_app
   - https://github.com/msaraiva/surface_bulma
   - https://github.com/razuf/elixir-phoenix-surface-realworld
+  - https://github.com/jprincipe/surface_demo
   - https://github.com/tiagoefmoraes/learn_surface
   - https://github.com/tschmidleithner/surface_bootstrap4
   - https://github.com/tschmidleithner/surface_bootstrap4_demo
