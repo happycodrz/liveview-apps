@@ -19,6 +19,7 @@ https://github.com/chrismccord/phoenix_live_view_example []
 https://github.com/ckampfe/rere [] last night I accidentally rebuilt Rubular in 30 lines of code #elixir #phoenixliveview
 https://github.com/code-shoily/covid19 [surface] A Phoenix app to display Novel Coronavirus (COVID-19)
 https://github.com/coingaming/bennu [] Component system and rendering engine for Phoenix and LiveView
+https://github.com/dashbitco/bytepack_archive [] Archive of bytepack.io
 https://github.com/DataKrewTech/AcqDat [] IoT Data Capture and Visualization Engine https://datakrew.com/#portfolio
 https://github.com/DEalog/backoffice [realworld ] The backoffice application for the DEalog platform
 https://github.com/DefactoSoftware/BearNecessities [] Multiplayer bear game with Phoenix Live View https://unbearable.nl
