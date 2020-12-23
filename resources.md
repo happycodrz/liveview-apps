@@ -74,6 +74,7 @@
   - https://pragmaticstudio.com/blog/2020/11/06/liveview-course-update-authentication
   - https://pragmaticstudio.com/blog/2020/10/16/liveview-course-update-charting
   - https://pragmaticstudio.com/blog/2020/10/23/liveview-course-update-mapping
+  - https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview (drag&drop, sortable)
 
 ### Non-trivial Apps
   - https://github.com/zkayser/georacer
