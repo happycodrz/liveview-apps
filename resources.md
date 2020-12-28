@@ -53,6 +53,7 @@
   - https://elixirforum.com/t/integration-testing-phoenix-liveview-apps/24268/12
 
 ### Articles
+  - https://dockyard.com/blog/2020/12/21/optimizing-user-experience-with-liveview
   - https://dashbit.co/blog/the-beauty-of-liveview
   - https://dashbit.co/blog/using-bootstrap-native-with-live-view
   - https://hostiledeveloper.com/2020/06/19/organizing-liveview-logic-with-presentation-models.html (patterns)
