@@ -101,6 +101,7 @@
   - https://github.com/karolsluszniak/phoenix_live_controller - Controller-style abstraction for building multi-action live views on top of Phoenix.LiveView
   - https://github.com/chouzar/norm_forms - Experiments around Phoenix Liveview and the Norm libraries
   - https://github.com/msaraiva/surface_app A bare bones Surface boilerplate without any node/npm dependencies
+  - https://github.com/harmon25/react_surface - Render React components with Phoenix LiveView + Surface
 
 
 ### Surface
