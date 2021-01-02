@@ -77,7 +77,8 @@
   - https://pragmaticstudio.com/blog/2020/10/23/liveview-course-update-mapping
   - https://www.headway.io/blog/client-side-drag-and-drop-with-phoenix-liveview (drag&drop, sortable)
 
-### Non-trivial Apps
+### Non-trivial apps
+  - https://github.com/jonklein/niex (Niex - Interactive Elixir Code Notebooks)
   - https://github.com/zkayser/georacer
   - https://fullstackphoenix.com/features (features with source for liveview)
   - https://github.com/rcoproc/live_studio_phoenix_elixir (Various examples of using Phoenix Live View from the Pragmatic Studio course.)
