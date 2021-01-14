@@ -49,10 +49,12 @@
 
 
 ### Testing
+  - https://www.germanvelasco.com/blog/using-has-element-for-better-liveviewtest-assertions
   - End2End Testing - https://medium.com/@svengehring/phoenix-end-to-end-testing-in-real-life-efdba3a85be1
   - https://elixirforum.com/t/integration-testing-phoenix-liveview-apps/24268/12
 
 ### Articles
+  - https://s2g.io/extracting-liveview-logic-into-livecomponents (LiveComponents)
   - https://dockyard.com/blog/2020/12/21/optimizing-user-experience-with-liveview
   - https://dashbit.co/blog/the-beauty-of-liveview
   - https://dashbit.co/blog/using-bootstrap-native-with-live-view
@@ -98,12 +100,20 @@
 
 
 ### Libs
+  - https://pentacent.com/blog/phoenix-live-sessions/
   - https://github.com/gaslight/phoenix-custom-event-hook + https://teamgaslight.com/blog/Phoenix-Liveview-and-Web-Components + https://github.com/gaslight/phoenix-custom-events-demo
   - https://github.com/karolsluszniak/phoenix_live_controller - Controller-style abstraction for building multi-action live views on top of Phoenix.LiveView
   - https://github.com/chouzar/norm_forms - Experiments around Phoenix Liveview and the Norm libraries
   - https://github.com/msaraiva/surface_app A bare bones Surface boilerplate without any node/npm dependencies
   - https://github.com/harmon25/react_surface - Render React components with Phoenix LiveView + Surface
 
+
+### JS libs to use with LiveView
+  - https://elixirforum.com/t/live-view-front-end-components/36284/5
+    - https://slimselectjs.com/
+    - https://github.com/flatpickr/flatpickr
+    - https://github.com/atomiks/tippyjs
+    - https://github.com/TarekRaafat/autoComplete.js
 
 ### Surface
   - https://github.com/SolbiatiAlessandro/dixord
