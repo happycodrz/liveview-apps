@@ -54,6 +54,7 @@
   - https://elixirforum.com/t/integration-testing-phoenix-liveview-apps/24268/12
 
 ### Articles
+  - https://github.com/nshoes/phoenix-live-view-tips -> FAQ Liveview
   - https://s2g.io/extracting-liveview-logic-into-livecomponents (LiveComponents)
   - https://dockyard.com/blog/2020/12/21/optimizing-user-experience-with-liveview
   - https://dashbit.co/blog/the-beauty-of-liveview
