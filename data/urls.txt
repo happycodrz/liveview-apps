@@ -12,7 +12,6 @@ https://github.com/benvp/liveview_autocomplete [] A simple but powerful autocomp
 https://github.com/betterdoc-org/lfeview [] Game of Life using Phoenix LifeView as UI
 https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm with Elixir and Phoenix LiveView https://phoenix-liveview-ant-farm.her…
 https://github.com/BigTom/changeban [] on-line implementation of the Agendashift workshop
-https://github.com/bordosocial/bordo []
 https://github.com/cadebward/live_view_surface_editor [] An example repo that uses LV hooks to integrate the ACE editor
 https://github.com/CassiusPacheco/live_chat [] A simple (non-optimised) real-time chat built with Phoenix LiveView
 https://github.com/chrismccord/phoenix_live_view_example []
@@ -47,6 +46,7 @@ https://github.com/garthk/live_bg_demo [] To try various ways of doing long-runn
 https://github.com/gaslight/live_deck [] A Real-Time Presentation Application Powered by Phoenix LiveView
 https://github.com/guitsaru/rest_client [] A REST client made with Phoenix LiveView
 https://github.com/H12/easy_retro [] A simple retro tool built with Phoenix LiveView and OTP
+https://github.com/happycodrz/bordo []
 https://github.com/hurty/phoenix_live_view_example [] Table editor demo with Phoenix LiveView. Zero javascript, ~80 LOC, table data already available serverside! thanks
 https://github.com/imartinat/phoenix_live_view_tablefilter [] Table Filter with Phoenix LiveView https://medium.com/@imartinat/table-f…
 https://github.com/jeffkreeftmeijer/hayago [] The Go game, implemented with Phoenix LiveView. https://hayago.herokuapp.com
