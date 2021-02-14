@@ -90,3 +90,4 @@ https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely fu
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView
 https://github.com/syfgkjasdkn/lazy-live-view [] Lazy loading example with JS
 https://github.com/coletiv/blog-phoenix-live-view-google-maps [] How to use Google Maps with Phoenix Live View
+https://github.com/pentacent/keila [] Open Source Newsletter Tool. - keila.io
