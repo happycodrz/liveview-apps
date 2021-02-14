@@ -19,6 +19,7 @@ https://github.com/chrismccord/phoenix_live_view_example []
 https://github.com/ckampfe/rere [] last night I accidentally rebuilt Rubular in 30 lines of code #elixir #phoenixliveview
 https://github.com/code-shoily/covid19 [surface] A Phoenix app to display Novel Coronavirus (COVID-19)
 https://github.com/coingaming/bennu [] Component system and rendering engine for Phoenix and LiveView
+https://github.com/coletiv/blog-phoenix-live-view-google-maps [] How to use Google Maps with Phoenix Live View
 https://github.com/dashbitco/bytepack_archive [] Archive of bytepack.io
 https://github.com/DataKrewTech/AcqDat [] IoT Data Capture and Visualization Engine https://datakrew.com/#portfolio
 https://github.com/DEalog/backoffice [realworld ] The backoffice application for the DEalog platform
@@ -70,6 +71,7 @@ https://github.com/nicolasblanco/booking_calendar [] Full calendar component wit
 https://github.com/oestrich/grapevine [] The MUD Chat Network https://grapevine.haus
 https://github.com/padde/scrumpokr [] Online Scrum poker for remote software development teams https://scrumpo.kr
 https://github.com/pedromtavares/moba [reallife, mustsee] MOBA - Multiplayer Online Battle Arena
+https://github.com/pentacent/keila [] Open Source Newsletter Tool. - keila.io
 https://github.com/PJUllrich/e2e-testing-with-cypress [] Auxiliary code to the talk: End-2-End Testing with Cypress
 https://github.com/ramortegui/phoenix_trivia [] Phoenix trivia is a Real Time Multiplayer game developed using Elixir without the need to write javascript https://phx-trivia.gigalixirapp.com
 https://github.com/Sanchos01/Phoenix-Sea-Battle [] Battleship, using Phoenix framework (LiveView) https://radiant-plateau-73240.herokua…
@@ -78,6 +80,7 @@ https://github.com/seb3s/kandesk [] Simple Kanban application written in elixir 
 https://github.com/smeade/phoenix_live_view_example [] It's a server-side calculator. You know, just in case you didn't have one on your phone, or desk, or watch :)
 https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveView, PubSub and Presence
 https://github.com/stevegrossi/sengoku [] An online Risk-like game built with Elixir and Phoenix LiveView
+https://github.com/syfgkjasdkn/lazy-live-view [] Lazy loading example with JS
 https://github.com/thomasbrus/phoenix-live-view-soccer-table [] Soccer Table (Phoenix LiveView Demo)
 https://github.com/topherhunt/reassembling-the-line [] Record video interviews where people share first-hand experience on an important topic. Code each segment of the video by theme. Explore the results using a novel filterable segment playback UI. Demo: https://rtl-demo1.herokuapp.com/
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
@@ -88,6 +91,3 @@ https://github.com/zblanco/libu [] A series of experiments built with Elixir, Ph
 https://github.com/zkayser/georacer [] GeoRacer -- The Hot Cold GeoRacing App With Phoenix LiveView Driving Webcomponents and SVGs!
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
 https://github.com/zorbash/observer_live [] This is a port of observer_cli using phoenix and LiveView
-https://github.com/syfgkjasdkn/lazy-live-view [] Lazy loading example with JS
-https://github.com/coletiv/blog-phoenix-live-view-google-maps [] How to use Google Maps with Phoenix Live View
-https://github.com/pentacent/keila [] Open Source Newsletter Tool. - keila.io
