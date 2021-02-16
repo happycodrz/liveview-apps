@@ -82,6 +82,7 @@ https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveV
 https://github.com/stevegrossi/sengoku [] An online Risk-like game built with Elixir and Phoenix LiveView
 https://github.com/syfgkjasdkn/lazy-live-view [] Lazy loading example with JS
 https://github.com/thomasbrus/phoenix-live-view-soccer-table [] Soccer Table (Phoenix LiveView Demo)
+https://github.com/tonyc/open890 [] A web-based remote UI for the Kenwood TS-890S ham radio transceiver.
 https://github.com/topherhunt/reassembling-the-line [] Record video interviews where people share first-hand experience on an important topic. Code each segment of the video by theme. Explore the results using a novel filterable segment playback UI. Demo: https://rtl-demo1.herokuapp.com/
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
 https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and split a form into multiple steps using Phoenix Live View
