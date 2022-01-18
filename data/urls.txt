@@ -4,12 +4,12 @@ https://github.com/alukasz/pentago [game] Implementation of board game Pentago h
 https://github.com/amberbit/board [] An example Elixir + Phoenix + OTP + LiveView app
 https://github.com/andreaseriksson/poor_man_spa [] Proof of concept for a SPA with Phoenix Live View, Turbolinks and Rails UJS
 https://github.com/angelikatyborska/falling_blocks [] A simple game made with PhoenixLiveView https://falling-tiles.angelika.me/
+https://github.com/archethic-foundation/archethic-node [] Elixir implementation of the Uniris network Node
 https://github.com/artsy/inflow [] Experiment - Artsy import app in Elixir/Phoenix (An experimental batch imports application written in Elixir/Phoenix)
 https://github.com/axelclark/ex338 [] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
 https://github.com/barboza/chatter [] A simple chat application using Phoenix Live View
 https://github.com/barsoom/ex-remit [] A self-hosted web app for commit-by-commit code review, written using Phoenix LiveView.
 https://github.com/benvp/liveview_autocomplete [] A simple but powerful autocomplete using Phoenix LiveView and Alpine.js
-https://github.com/betterdoc-org/lfeview [] Game of Life using Phoenix LifeView as UI
 https://github.com/bigardone/phoenix-liveview-ant-farm [] Concurrent ant farm with Elixir and Phoenix LiveView https://phoenix-liveview-ant-farm.her…
 https://github.com/BigTom/changeban [] on-line implementation of the Agendashift workshop
 https://github.com/cadebward/live_view_surface_editor [] An example repo that uses LV hooks to integrate the ACE editor
@@ -32,12 +32,9 @@ https://github.com/dorilla/live_view_black_jack [] BlackJack https://polite-ange
 https://github.com/drumusician/elixir_conf_live_view_dashboard [] A LiveView Dashboard with ElixirConf Stats
 https://github.com/dsdshcym/phoenix_live_view_sudoku [] A Sudoku solver written with Elixir, Phoenix, and Phoenix LiveView
 https://github.com/Echoes93/flood [] ...
-https://github.com/elementary/houston-server [] AppCenter Dashboard Server, the backend for elementary AppCenter
 https://github.com/elixirschool/live-view-chat [] A chat app built with Phoenix LiveView, PubSub and Presence
 https://github.com/eteubert/open_adventure_capitalist [] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
-https://github.com/fixthestatusquo/proca-backend [] Backend for the ultimate petition/campaigning tool
 https://github.com/FlyingDutchmanGames/battle_box [] The Open Source Bot Battle Engine + (https://github.com/FlyingDutchmanGames/battle_box_client)
-https://github.com/frathon/igthorn [] Cryptocurrency trading bot
 https://github.com/fremantle-industries/workbench [] From Idea to Execution - Manage your trading operation across a globally distributed cluster
 https://github.com/fully-forged/memento [] Collect saved items from different sources around the web
 https://github.com/fully-forged/tune [] A streamlined Spotify client and browser with a focus on performance and integrations.
@@ -45,7 +42,7 @@ https://github.com/future-cyborg/phoenix_example_multi_nested_form [] his is an 
 https://github.com/garthk/live_bg_demo [] To try various ways of doing long-running work in Phoenix LiveView, start with the boilerplate:
 https://github.com/gaslight/live_deck [] A Real-Time Presentation Application Powered by Phoenix LiveView
 https://github.com/guitsaru/rest_client [] A REST client made with Phoenix LiveView
-https://github.com/H12/easy_retro [] A simple retro tool built with Phoenix LiveView and OTP
+https://github.com/H12/foss_retro [] A simple retro tool built with Phoenix LiveView and OTP
 https://github.com/happycodrz/bordo []
 https://github.com/hurty/phoenix_live_view_example [] Table editor demo with Phoenix LiveView. Zero javascript, ~80 LOC, table data already available serverside! thanks
 https://github.com/imartinat/phoenix_live_view_tablefilter [] Table Filter with Phoenix LiveView https://medium.com/@imartinat/table-f…
@@ -64,7 +61,6 @@ https://github.com/mnussbaumer/cocktail [reallife] A LiveView Test of a Visual H
 https://github.com/monjohn/phellow [] A Trello Clone in Phoenix using LiveView
 https://github.com/moomerman/flappy-phoenix [] Flappy Bird clone written in Elixir using Phoenix LiveView to render the game UI from the server. https://flappy-phoenix.herokuapp.com
 https://github.com/mreishus/demon_spirit_umbrella [] Demon Spirit is an abstract board game played on a 5x5 grid.
-https://github.com/msaraiva/surface [] A component based library for Phoenix LiveView
 https://github.com/neslinesli93/breakoutex [] A breakout clone written in pure Elixir, using Phoenix LiveView https://breakoutex.tommasopifferi.com
 https://github.com/nickdichev/markdown-live [] MarkdownLive is an example application using Phoenix LiveView which renders user-submitted Markdown on the server. http://markdown.dichev.io
 https://github.com/nicolasblanco/booking_calendar [] Full calendar component with days selection persisted in database & real time broadcasting to all clients. 0 lines of JavaScript. Only clean Elixir server-side code
@@ -80,13 +76,13 @@ https://github.com/seb3s/kandesk [] Simple Kanban application written in elixir 
 https://github.com/smeade/phoenix_live_view_example [] It's a server-side calculator. You know, just in case you didn't have one on your phone, or desk, or watch :)
 https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveView, PubSub and Presence
 https://github.com/stevegrossi/sengoku [] An online Risk-like game built with Elixir and Phoenix LiveView
+https://github.com/surface-ui/surface [] A component based library for Phoenix LiveView
 https://github.com/syfgkjasdkn/lazy-live-view [] Lazy loading example with JS
 https://github.com/thomasbrus/phoenix-live-view-soccer-table [] Soccer Table (Phoenix LiveView Demo)
 https://github.com/tonyc/open890 [] A web-based remote UI for the Kenwood TS-890S ham radio transceiver.
 https://github.com/topherhunt/reassembling-the-line [] Record video interviews where people share first-hand experience on an important topic. Code each segment of the video by theme. Explore the results using a novel filterable segment playback UI. Demo: https://rtl-demo1.herokuapp.com/
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
 https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and split a form into multiple steps using Phoenix Live View
-https://github.com/UNIRIS/uniris-node [] Elixir implementation of the Uniris network Node
 https://github.com/vorce/lasso [] Inspect HTTP requests. Powered by Phoenix and LiveView.
 https://github.com/zblanco/libu [] A series of experiments built with Elixir, Phoenix, LiveView, and Tailwind CSS.
 https://github.com/zkayser/georacer [] GeoRacer -- The Hot Cold GeoRacing App With Phoenix LiveView Driving Webcomponents and SVGs!
