@@ -24,7 +24,6 @@ https://github.com/DataKrewTech/AcqDat [] IoT Data Capture and Visualization Eng
 https://github.com/DEalog/backoffice [realworld ] The backoffice application for the DEalog platform
 https://github.com/DefactoSoftware/BearNecessities [] Multiplayer bear game with Phoenix Live View https://unbearable.nl
 https://github.com/dersnek/chirp [] A real-time Twitter clone with LiveView and Phoenix 1.5 (https://youtu.be/MZvmYaFkNJI)
-https://github.com/distributeaid/toolbox [] collection of tools for newcomer (refugee) aid groups that make up the Distribute Aid platform.
 https://github.com/djthread/lucidboard [] A realtime, collaborative kanban tool, built on Elixir, Phoenix, and LiveView.
 https://github.com/dmitriid/phreak [] Kubernetes Dashboard with Phoenix LiveView
 https://github.com/dnsbty/level10 [] Phoenix LiveView multiplayer card game
@@ -41,6 +40,7 @@ https://github.com/fully-forged/tune [] A streamlined Spotify client and browser
 https://github.com/future-cyborg/phoenix_example_multi_nested_form [] his is an example repo of how to work with nested forms while using Phoenix LiveView.
 https://github.com/garthk/live_bg_demo [] To try various ways of doing long-running work in Phoenix LiveView, start with the boilerplate:
 https://github.com/gaslight/live_deck [] A Real-Time Presentation Application Powered by Phoenix LiveView
+https://github.com/Glimesh/glimesh.tv [] Glimesh is a next generation live streaming platform built by the community, for the community.
 https://github.com/guitsaru/rest_client [] A REST client made with Phoenix LiveView
 https://github.com/H12/foss_retro [] A simple retro tool built with Phoenix LiveView and OTP
 https://github.com/happycodrz/bordo []
@@ -51,6 +51,7 @@ https://github.com/jmschles/cribbex [components] Cribbage in elixir!
 https://github.com/joerichsen/phoenix_live_view_example [] Table pagination, filtering, and sorting with Phoenix LiveView and no JS :-)
 https://github.com/JohnB/phoenix_live_view_example []  Collaborative Painting
 https://github.com/kuroda/live_dendron [] Live Dendron - a Phoenix LiveView demo
+https://github.com/livebook-dev/livebook [] Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
 https://github.com/Logflare/logflare [] Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 https://github.com/makerion/makerion [] Makerion is a 3D printer management project intended to be run on a Raspberry Pi
 https://github.com/martinstannard/soup [] A multi-player boggle clone written with Phoenix LiveView https://lettersoup.herokuapp.com
@@ -73,6 +74,7 @@ https://github.com/ramortegui/phoenix_trivia [] Phoenix trivia is a Real Time Mu
 https://github.com/Sanchos01/Phoenix-Sea-Battle [] Battleship, using Phoenix framework (LiveView) https://radiant-plateau-73240.herokua…
 https://github.com/sasa1977/demo_system [] Synthetic load generator + ad-hoc scheduler observer powered by #phoenix #LiveView #myelixirstatus
 https://github.com/seb3s/kandesk [] Simple Kanban application written in elixir using phoenix liveview
+https://github.com/sgobotta/live_dj [] 💿 Join or create video playlists to share a real-time experience with others! 🎧
 https://github.com/smeade/phoenix_live_view_example [] It's a server-side calculator. You know, just in case you didn't have one on your phone, or desk, or watch :)
 https://github.com/SophieDeBenedetto/phat [] A Phoenix chat app built with LiveView, PubSub and Presence
 https://github.com/stevegrossi/sengoku [] An online Risk-like game built with Elixir and Phoenix LiveView
