@@ -33,6 +33,7 @@ https://github.com/dsdshcym/phoenix_live_view_sudoku [] A Sudoku solver written 
 https://github.com/Echoes93/flood [] ...
 https://github.com/elixirschool/live-view-chat [] A chat app built with Phoenix LiveView, PubSub and Presence
 https://github.com/eteubert/open_adventure_capitalist [] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
+https://github.com/fly-apps/live_beats [] Play music together with Phoenix LiveView!
 https://github.com/FlyingDutchmanGames/battle_box [] The Open Source Bot Battle Engine + (https://github.com/FlyingDutchmanGames/battle_box_client)
 https://github.com/fremantle-industries/workbench [] From Idea to Execution - Manage your trading operation across a globally distributed cluster
 https://github.com/fully-forged/memento [] Collect saved items from different sources around the web
@@ -86,6 +87,7 @@ https://github.com/topherhunt/reassembling-the-line [] Record video interviews w
 https://github.com/toranb/elixir-match [] The source code for https://elixirmatch.com
 https://github.com/tuacker/phoenix_live_view_form_steps [] Small test to try and split a form into multiple steps using Phoenix Live View
 https://github.com/vorce/lasso [] Inspect HTTP requests. Powered by Phoenix and LiveView.
+https://github.com/wyeworks/elixir_console [] Elixir Web Console
 https://github.com/zblanco/libu [] A series of experiments built with Elixir, Phoenix, LiveView, and Tailwind CSS.
 https://github.com/zkayser/georacer [] GeoRacer -- The Hot Cold GeoRacing App With Phoenix LiveView Driving Webcomponents and SVGs!
 https://github.com/zkayser/pfds_visualizations [] A UI for visualizing purely functional data structures
